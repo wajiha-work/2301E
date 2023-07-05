@@ -1,4 +1,2 @@
-Apple
-Peach
-Grapes
-Banana
+Blue
+Green
