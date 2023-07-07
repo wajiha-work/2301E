@@ -1,3 +1,6 @@
 Blue
 Green
 White
+Black 
+Red 
+Gray 
