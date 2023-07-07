@@ -5,3 +5,5 @@ Olive
 Red 
 Gray 
 Silver
+purple
+yellow
