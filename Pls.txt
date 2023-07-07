@@ -1,3 +1,6 @@
 C#
+Java
+JS
 PHP
 ASP.NET
+C++

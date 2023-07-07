@@ -1,6 +1,7 @@
 Blue
 Green
-White
-Black 
+Orange
+Olive
 Red 
 Gray 
+Silver
