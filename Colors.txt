@@ -7,3 +7,6 @@ Gray
 Silver
 purple
 yellow
+Golden
+Black
+Brown
