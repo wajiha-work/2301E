@@ -3,3 +3,5 @@ Peach
 Grapes
 Banana
 Mango 
+Apple
+Peach
